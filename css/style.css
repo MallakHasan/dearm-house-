@@ -59,7 +59,7 @@ align-items: center;
 }
 #hero{
     height: 100vb;
-    background-image: url(/img/background.jpg.jpg);
+    background-image: url(/img/background.jpg);
     background-size: cover;
 }
 .hero-title{
